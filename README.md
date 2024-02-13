@@ -1,5 +1,5 @@
 # ⚡ About Me:
-🎓Software Engineering Student @ University of Minho<br>👨‍💻Currently working on university projects<br>🌱Currently learning JavaScript <br>🤾‍♂️Handball Player @ ABC Braga
+🎓Software Engineering Student @ University of Minho<br>👨‍💻Currently working on university projects<br>🌱Currently learning JavaScript & C++<br>🤾‍♂️Handball Player @ ABC Braga
 
 
 ## 🌐 Socials:
